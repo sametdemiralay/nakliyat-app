@@ -1,0 +1,26 @@
+{
+   "deneme": [
+      {
+         "id": 1,
+         "title": "some text1",
+         "content": "content-1"
+      },
+      {
+         "id": 2,
+         "title": "some text2",
+         "content": "content-2"
+      },
+      {
+         "id": 3,
+         "title": "some text3",
+         "content": "content-3"
+      },
+      {
+         "id": 4,
+         "title": "some text4",
+         "content": "content-4"
+      }
+   ],
+   "hakkimizda": "Acar Nakliyat 1990 Yılından itibaren siz değerli müşterilerimize hizmet vermekteyiz. 20 tecrübeli eleman ve 8 modern evden eve araçlarımızla şehir içi ve şehirler arası ofis , fuar ve kurumsal taşımacılık ile hizmetinizdeyiz. Güvenilir bir eleman kadrosuyla içiniz rahat bir şekilde eşyanızı taşıtabilirsiniz. Taşımalarımız da eşyalarınız sigortalı ve marangozdur. Eşyalarınız zarar görmeden sarılır ve araçlarımıza düzenli bir şekilde yüklenir. ",
+   "hakkimizda2": "Acar evden eve nakliyat firmamız siz değerli müşterilerine her konuda yardımcı olacak ve sizleri ev taşırken içiniz rahat bırakacaktır. Müşteri memnuniyeti esas alınan çalışmalarımızda güven ve kalitede taviz verilmemektedir. Hedefimiz her zaman en iyisini yapmak ve siz değerli müşterilerini memnun etmektir."
+}

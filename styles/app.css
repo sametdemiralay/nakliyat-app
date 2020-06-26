@@ -1,0 +1,38 @@
+.bg-nav{
+   background-color: #2c2c54 !important;
+   padding: 2rem 2rem !important;
+   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+   margin-bottom: 20px;
+   margin-top: 10px;
+}
+
+.footerStyle{
+   background-color: #40407a;
+   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.jumbotron{
+   background-image: url(/banner.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   padding-top: 50px;
+   font-weight: bold;
+   margin-top: 10px;
+   margin-bottom: 30px;
+   padding: 100px;
+   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.jumbotron h1,p {
+   background-color: rgba(223, 230, 233,.2);
+   padding: 20px;
+   color:#FFF ;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.harita{
+   padding-left: 0;
+   padding-right: 0;
+}
+
